@@ -1,0 +1,15 @@
+<resources>
+
+        <string name="app_name">L311_Foreground_Services</string>
+        <string name="start_btn">Start</string>
+        <string name="stop_btn">Stop</string>
+
+        <string name="ChannelName">Channel_MotorStore</string>
+        <string name="ChannelDescription">This notification for the Motor Store App which developed by Dr. Moustafa Magdi</string>
+        <string name="title_notification">Further Vehicle</string>
+        <string name="title_message">The Vehicle was added successfully in the Motor Store</string>
+        <string name="BigTextStyle">Big Motor Store</string>
+        <string name="detail_action">Detail</string>
+
+
+</resources>
